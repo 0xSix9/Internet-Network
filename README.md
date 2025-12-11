@@ -30,8 +30,7 @@ Example: opening YouTube
 6. Browser displays it
 
 ---
-
-## ISP
+![ISP](https://github.com/0xSix9/Internet-and-Network/blob/76a59e2b802e615160c5ef4f9ccfffa027b3aaea/img/2.png)
 ### What is an ISP?
 ISP = **Internet Service Provider**, the company that gives you internet access and routes your requests.
 
@@ -60,8 +59,7 @@ ISP = **Internet Service Provider**, the company that gives you internet access 
 - Traffic filtering  
 
 ---
-
-## Server
+![Server](https://github.com/0xSix9/Internet-and-Network/blob/76a59e2b802e615160c5ef4f9ccfffa027b3aaea/img/3.png)
 ### What is a Server?
 A server is a computer that is **always on** and provides services to other devices (clients).
 
@@ -74,8 +72,7 @@ A server is a computer that is **always on** and provides services to other devi
 3. **Sending responses** (HTML, CSS, JS, JSON)
 
 ---
-
-## Hosting
+![Hosting](https://github.com/0xSix9/Internet-and-Network/blob/main/img/4.png?raw=true)
 ### What Is Hosting?
 Hosting is storage space on a server where your website’s files live so users can access the site.
 
@@ -122,7 +119,7 @@ Hosting is storage space on a server where your website’s files live so users 
 
 ---
 
-## Domain
+![Domain](https://github.com/0xSix9/Internet-and-Network/blob/76a59e2b802e615160c5ef4f9ccfffa027b3aaea/img/5.png) 
 ### What Is a Domain?
 A domain is a **human-readable name** like `google.com` that replaces numerical IP addresses.
 
@@ -147,7 +144,7 @@ A domain is a **human-readable name** like `google.com` that replaces numerical 
 
 ---
 
-## IP
+![IP](https://github.com/0xSix9/Internet-and-Network/blob/76a59e2b802e615160c5ef4f9ccfffa027b3aaea/img/6.jpeg) 
 ### What is an IP Address?
 An IP is a unique numerical address assigned to every device on the internet.
 
@@ -181,7 +178,7 @@ An IP is a unique numerical address assigned to every device on the internet.
 
 ---
 
-## DNS
+![DNS](https://github.com/0xSix9/Internet-and-Network/blob/76a59e2b802e615160c5ef4f9ccfffa027b3aaea/img/7.png) 
 ### What is DNS?
 **DNS = Internet’s phone book**  
 It converts domain names into server IP addresses.
@@ -219,7 +216,7 @@ Example:
 
 ---
 
-## HTTP & HTTPS
+![HTTP & HTTPS]
 ### What is HTTP?
 **HyperText Transfer Protocol**  
 Defines how browsers and servers exchange data.
