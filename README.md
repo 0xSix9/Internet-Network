@@ -239,7 +239,7 @@ Encrypted using SSL/TLS.
 
 ---
 
-1[API](https://github.com/0xSix9/Internet-and-Network/blob/b6f6813230889ad33770ff1c16c0c4b023e847fb/img/9.png)
+![API](https://github.com/0xSix9/Internet-and-Network/blob/b6f6813230889ad33770ff1c16c0c4b023e847fb/img/9.png)
 ### What is an API?  
 API = **Application Programming Interface**  
 A communication bridge between applications.
